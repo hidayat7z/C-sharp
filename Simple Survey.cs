@@ -17,6 +17,7 @@ namespace Survey
 
       Console.WriteLine("Your name: {0}",name);
       Console.WriteLine("Your age: {0}",age);
-      Console.WriteLine("Your age: {0}",month);
+      Console.WriteLine("Your birthmonth: {0}",month);
     }
   }
+}
